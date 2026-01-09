@@ -2,6 +2,14 @@
 
 A modern, feature-rich trip planning application built with React, TypeScript, and Vite. Plan your perfect adventure with real-time weather data, explore destinations worldwide, and manage your bookings all in one place.
 
+## Demo
+
+<video src="public/videoSmartplanner.mp4" controls width="100%">
+  Your browser does not support the video tag.
+</video>
+
+> **Note:** If the video doesn't play above, you can [download and watch the demo video here](public/videoSmartplanner.mp4).
+
 ## Features
 
 ### Core Functionality
